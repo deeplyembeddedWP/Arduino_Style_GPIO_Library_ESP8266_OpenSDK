@@ -4,7 +4,7 @@ This is a GPIO Library that is compatible to be used with the ESP8266 OpenSDK on
 
 The description of the helper Library presented here is on the website: http://deeplyembedded.org/gpio-library-esp8266-opensdk/
 
-Demo video for the working of this Library are retrieved from https://youtu.be/mVBuAQ1twXc
+Demo video for the working of this Library are retrieved from https://youtu.be/zHyllmNURUc
 
 Please find more information on this video at:http://deeplyembedded.org/gpio-library-esp8266-opensdk/
 
